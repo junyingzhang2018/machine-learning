@@ -1,4 +1,4 @@
-# Stanford Andrew NG machine learning projects by Python
+## Stanford Andrew NG machine learning projects by Python
 The goal of the project is to use Python to finish the course projects in Andrew machine learning projects on Coursera. The projects include
 1. linear regression
 2. logistic regression
